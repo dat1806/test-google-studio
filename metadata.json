@@ -1,0 +1,6 @@
+{
+  "name": "ProjectHub - Quản Lý Dự Án",
+  "description": "Hệ thống quản lý dự án thông minh với bảng Kanban, biểu đồ tiến độ Gantt, phân bổ nhân sự và Trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
