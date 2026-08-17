@@ -77,6 +77,7 @@ export const App: React.FC = () => {
 
   // Theme Class Toggle
   useEffect(() => {
+    console.log('----')
     if (isDarkMode) {
       document.documentElement.classList.add('dark');
     } else {
